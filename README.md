@@ -1,1 +1,2 @@
 # artificial-potential
+Automation has developed and advanced in the past few years. Path planning is one of the most important tasks every robot should perform. Path planning is the process of finding a path for the robot to traverse in the optimum time without any collisions. The report briefly talks about the different approaches of path planning. Artificial potential field is one of the algorithms or function used for path planning. Artificial potential function equates the attractive forces caused by the goal and the repulsive forces caused by the obstacles.
